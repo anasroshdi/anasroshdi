@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anasroshdi
 - 👀 I’m interested in coding & development 
-- 🌱 I’m currently learning web development specially backend 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m Backend developer  
 - 📫 You can reach me on gmail: anasroshdiii@gmail.com
 
 <!---
